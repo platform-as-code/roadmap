@@ -1,0 +1,5 @@
+blank_issue_enabled: false
+contact_links:
+  - name: Platform as Code community support
+    url: https://github.com/platform-as-code/roadmap/discussions
+    about: Please ask and answer question here.
